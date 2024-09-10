@@ -1,1 +1,1 @@
-12345
+print ('hello world')
