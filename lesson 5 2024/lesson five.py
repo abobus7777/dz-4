@@ -1,5 +1,5 @@
 from character import Character
-from lesson f  import Paladin
+from  import Paladin
 player1 = Character('grawlactor', 500, 20,10)
 player1.show_stats()
 
